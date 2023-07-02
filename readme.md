@@ -47,7 +47,7 @@ Here is the Test Socket version.
 
 ## Test Socket
 - [ASIC chip test base](https://thanosmining.com/products/asic-chip-test-base-bm1397-bm1396-bm1398-bm1362?DIST=Q0dEHQ%3D%3D) from Thanos Mining until another source is located. Note the pin alignments may be different from a different source.
-- A custom heatsink is required, work is underway to produce an as built CAD file from what was created by a machinist.
+- A custom heatsink mod is required, see the Heatsink CAD for a model you can get CNC'd at PCB way < $40. 
 
 ## Software
 - [ESP-Miner](https://github.com/skot/ESP-Miner) firmware in progress.
